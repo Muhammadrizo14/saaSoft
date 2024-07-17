@@ -1,5 +1,10 @@
-# Vue 3 + TypeScript + Vite
+# Тестовое задание saaSoft
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Стек
+1. Vue.js 3 + Composition API (Vite)
+2. TypeScript (язык)
+3. Pinia (стейт менеджер)
+4. PrimeVue
+
+[ссылка на проект](https://saa-soft.vercel.app/)

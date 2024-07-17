@@ -8,6 +8,14 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     Button: typeof import('primevue/button')['default']
+    Column: typeof import('primevue/column')['default']
+    DataTable: typeof import('primevue/datatable')['default']
+    InputText: typeof import('primevue/inputtext')['default']
     Message: typeof import('primevue/message')['default']
+    Password: typeof import('primevue/password')['default']
+    RecordsColumn: typeof import('./src/components/Records/RecordsColumn.vue')['default']
+    RecordsTable: typeof import('./src/components/Records/RecordsTable.vue')['default']
+    Select: typeof import('primevue/select')['default']
+    Table: typeof import('./src/components/Records/Table.vue')['default']
   }
 }
